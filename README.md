@@ -1,5 +1,5 @@
 WTCMamba
-The project is "A Hybrid CNN-Mamba Architecture with Wavelet Transform for Slender Pavement Crack Detection". 
+The project is "Hybrid CNN-Mamba Network and Air-Ground Platform for Pavement Crack Evaluation". 
 This is the model file of WTCMamba. 
 
 Datasets
